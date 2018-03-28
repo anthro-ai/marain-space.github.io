@@ -11,6 +11,7 @@ body {
 }
 
 .text {
+  font-family: 'Lato', sans-serif;
   float: left;
   width: 25.5833333333%;
   min-height: 71px;
@@ -31,7 +32,7 @@ body {
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
   background-color: transparent;
-  font-family: Bitter;
+  font-family: 'Nova Mono', monospace;
   font-style: normal;
   font-size: 2.5em;
   font-weight: inherit;
